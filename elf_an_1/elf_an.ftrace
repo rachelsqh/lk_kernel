@@ -1,0 +1,5 @@
+# tracer: function_graph
+#
+# CPU  DURATION                  FUNCTION CALLS
+# |     |   |                     |   |   |   |
+ 6) ! 176.555 us  |  __x64_sys_execve();
